@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Javed</h1>
-<h3 align="center">Aspiring DevOps Engineer | Cloud & Automation Enthusiast 🚀</h3>
+<h3 align="center">DevOps Engineer | Cloud & Automation Specialist 🚀</h3>
 
 <p align="center">
   <img src="https://i.ibb.co/hF2T4Zt4/Chat-GPT-Image-Jan-25-2026-06-59-03-PM.png" width="3000"/>
