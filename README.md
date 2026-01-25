@@ -1,97 +1,130 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Javed</h1>
+<h3 align="center">Aspiring DevOps Engineer | Cloud & Automation Enthusiast 🚀</h3>
 
-# 👋 Hi, I’m **Javedbasha Shaik**
-### ☁️ Cloud & DevOps Engineer | Automation Enthusiast | Learning Everyday
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Iam-Javed&show_icons=true&theme=radical" alt="Javed's GitHub Stats" />
+<p align="center">
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="300"/>
 </p>
 
-</div>
+---
+
+## 👨‍💻 About Me
+
+🔹 I'm a **DevOps-focused IT professional** with hands-on experience in **Linux, Cloud, Containers, CI/CD, and Automation**.  
+🔹 Started my journey as a **Windows Administrator**, now actively transitioning into a **DevOps Engineer role**.  
+🔹 I believe in **learning by building**, breaking things, fixing them, and documenting everything.  
+🔹 Passionate about **Cloud Architecture, Infrastructure as Code, and scalable systems**.
+
+💡 *My goal:* Build reliable, automated, and cost-efficient systems using DevOps best practices.
 
 ---
 
-## 🚀 About Me
+## 🛠️ DevOps Skill Set
 
-- 🚧 I build **DevOps solutions** with cloud automation, CI/CD pipelines, containerization, and infrastructure as code.
-- 🎯 I’m passionate about making development faster, reliable, and automated.
-- 📚 I enjoy sharing knowledge with beginners about DevOps concepts.
-- 💬 Ask me about: **CI/CD, GitHub Actions, Docker, Kubernetes, Terraform, AWS**.
+### ☁️ Cloud & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,linux,ubuntu" />
+</p>
 
----
-
-## 🧰 Tech & Tools
-
-### 💻 Cloud & Platform
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws)
-![Azure](https://img.shields.io/badge/Azure-Cloud-blue?logo=microsoftazure)
-![GCP](https://img.shields.io/badge/GCP-Cloud-lightgrey?logo=googlecloud)
-
-### 🛠 DevOps & Automation
-![Docker](https://img.shields.io/badge/Docker-Container-blue?logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?logo=kubernetes)
-![Terraform](https://img.shields.io/badge/Terraform-IaC-black?logo=terraform)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-purple?logo=githubactions)
-
-### 🧠 Languages
-![Python](https://img.shields.io/badge/Python-Programming-blue?logo=python)
-![Bash](https://img.shields.io/badge/Bash-Scripting-black?logo=gnu-bash)
+- AWS (EC2, S3, RDS, Route53, CloudFront, CloudWatch, Elastic Beanstalk)
+- Linux Administration (Processes, Permissions, Services, Networking)
 
 ---
 
-## 📂 Core DevOps Projects
+### 🐳 Containers & Orchestration
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+</p>
 
-Here’s a few projects that show DevOps skills and workflows:
-
-### 🚀 CI/CD & Automation
-- **CI/CD with GitHub Actions** — Automated build + test + deploy workflows.
-- **Infrastructure Provisioning with Terraform** — Automated cloud infrastructure using IaC.
-- **Docker & Kubernetes Demos** — Containerized apps deployed with orchestration.
-
-*(👉 Make sure each project repo has a detailed README of its own with setup steps, example commands, and screenshots.)*
+- Docker (Images, Containers, Volumes, Multi-stage Builds)
+- Docker Compose
+- Kubernetes (Pods, Deployments, Services, Basics)
 
 ---
 
-## 📘 Beginner-Friendly Roadmap
+### 🔁 CI/CD & Automation
+<p>
+  <img src="https://skillicons.dev/icons?i=jenkins,github,git,bash" />
+</p>
 
-If you’re just starting DevOps, here’s a step-by-step learning path I recommend:
-
-1. **Version Control:** Git basics → branching, merging, pull requests.
-2. **Linux & Bash:** Fundamental commands + scripting.
-3. **CI/CD:** GitHub Actions workflows → build, test, deploy steps.
-4. **Containers:** Docker images, registries, containers.
-5. **Orchestration:** Kubernetes fundamentals.
-6. **Cloud:** AWS / Azure basics → compute, storage, IAM.
-7. **IaC:** Terraform modules + state management.
-
-*(This roadmap will help you understand real-world DevOps projects.)*
+- Jenkins (CI pipelines, build & deploy automation)
+- Git & GitHub (Version Control, PR workflow)
+- Bash Scripting (Automation, monitoring, validation scripts)
 
 ---
 
-## ✉️ Let’s Connect
+### ⚙️ Configuration & Monitoring
+<p>
+  <img src="https://skillicons.dev/icons?i=ansible" />
+</p>
 
-**Email:** skjavedbasha12@gmail.com  
-**LinkedIn:** https://linkedin.com/in/your-linkedin-username  
-**Twitter:** https://twitter.com/your-twitter-handle
+- Ansible (Playbooks, Roles – Beginner to Intermediate)
+- Server performance monitoring & troubleshooting
+- Incident analysis using dashboards and logs
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Iam-Javed&label=Profile%20Views&color=0e75b6" alt="profile views" />
-</div>
-## Hi there 👋
+## 📂 Featured DevOps Projects
 
-<!--
-**Iam-Javed/Iam-Javed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 **VProfile Application – DevOps Deployment**
+🔹 Dockerized Java application  
+🔹 CI/CD using Jenkins  
+🔹 Deployed on AWS with Load Balancing  
+🔹 Docker Compose + Multi-stage Dockerfile  
 
-Here are some ideas to get you started:
+📌 *Tech:* Docker | Jenkins | AWS | Maven | Tomcat  
+👉 Repo: **Check repositories below ⬇️**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ☁️ **AWS Elastic Beanstalk Architecture Project**
+🔹 Route53 + CloudFront + S3  
+🔹 Elastic Beanstalk (Tomcat)  
+🔹 RDS, Amazon MQ, ElastiCache  
+🔹 Monitoring via CloudWatch  
+
+📌 *Focus:* Real-world cloud architecture & scalability
+
+---
+
+### 📜 **Automation Scripts**
+🔹 Bash scripts for system checks  
+🔹 NetApp volume resize & migration (learning project)  
+🔹 Validation-first automation logic  
+
+📌 *Focus:* Reliability & safety before execution
+
+---
+
+## 📈 Learning & Growth
+
+📘 Currently learning:
+- Kubernetes (Hands-on labs)
+- Advanced Bash scripting
+- Infrastructure as Code (Terraform – upcoming)
+- DevOps best practices & system design
+
+🎯 Career Goal:
+> Become a **production-ready DevOps Engineer** who understands both **systems and automation deeply**.
+
+---
+
+## 🤝 Let’s Connect
+
+<p align="left">
+<a href="https://github.com/Iam-Javed" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+<a href="https://www.linkedin.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+</p>
+
+<p align="center">
+  🚀 <b>Learning DevOps one automation at a time</b> 🚀
+</p>
