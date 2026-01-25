@@ -114,12 +114,9 @@
 ---
 
 ## 📊 GitHub Activity
+
 ![Javed's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Iam-Javed&theme=react-dark&hide_border=true)
 
-## 🚀 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Iam-Javed&show_icons=true&theme=react&hide_border=true"/>
-</p>
 
 ---
 
