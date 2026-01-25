@@ -20,7 +20,7 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Iam-Javed&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Iam-Javed&theme=darkhub&no-frame=true&column=7&margin-w=10&no-bg=true&rank=TOTAL)](https://github.com/Iam-Javed)
 
 
 ## 🛠️ DevOps Skill Set
