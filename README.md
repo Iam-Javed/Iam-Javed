@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring DevOps Engineer | Cloud & Automation Enthusiast 🚀</h3>
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1P1DtbJLxkRFLEeOMfb7XXTjTYC82lf8l/view?usp=drivesdk" width="300"/>
+  <img src="https://ibb.co/k2qPw9Ww" width="300"/>
 </p>
 
 ---
