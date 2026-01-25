@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring DevOps Engineer | Cloud & Automation Enthusiast 🚀</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="300"/>
+  <img src="https://chatgpt.com/s/m_69761a986c788191b5538ab80ada2804" width="300"/>
 </p>
 
 ---
@@ -19,6 +19,12 @@
 ---
 
 ## 🛠️ DevOps Skill Set
+
+### Programming
+
+- Java
+- Python
+- DSA
 
 ### ☁️ Cloud & Infrastructure
 <p>
@@ -72,7 +78,6 @@
 🔹 Docker Compose + Multi-stage Dockerfile  
 
 📌 *Tech:* Docker | Jenkins | AWS | Maven | Tomcat  
-👉 Repo: **Check repositories below ⬇️**
 
 ---
 
@@ -88,23 +93,10 @@
 
 ### 📜 **Automation Scripts**
 🔹 Bash scripts for system checks  
-🔹 NetApp volume resize & migration (learning project)  
+🔹 NetApp volume resize & migration
 🔹 Validation-first automation logic  
 
 📌 *Focus:* Reliability & safety before execution
-
----
-
-## 📈 Learning & Growth
-
-📘 Currently learning:
-- Kubernetes (Hands-on labs)
-- Advanced Bash scripting
-- Infrastructure as Code (Terraform – upcoming)
-- DevOps best practices & system design
-
-🎯 Career Goal:
-> Become a **production-ready DevOps Engineer** who understands both **systems and automation deeply**.
 
 ---
 
@@ -114,7 +106,7 @@
 <a href="https://github.com/Iam-Javed" target="_blank">
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
-<a href="https://www.linkedin.com" target="_blank">
+<a href="https://www.linkedin.com/in/Javedbasha" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 </p>
