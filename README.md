@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring DevOps Engineer | Cloud & Automation Enthusiast 🚀</h3>
 
 <p align="center">
-  <img src="https://chatgpt.com/s/m_69761a986c788191b5538ab80ada2804" width="300"/>
+  <img src="https://drive.google.com/file/d/1P1DtbJLxkRFLEeOMfb7XXTjTYC82lf8l/view?usp=drivesdk" width="300"/>
 </p>
 
 ---
