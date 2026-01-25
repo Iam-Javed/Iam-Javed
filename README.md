@@ -108,11 +108,11 @@
 <a href="https://github.com/Iam-Javed" target="_blank">
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
-  
+.
 <a href="https://www.linkedin.com/in/Javedbasha" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-  
+.
 <a href="https://www.buymeacoffee.com/Javed.devops" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 50px; width: auto;">
 </a>
