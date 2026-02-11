@@ -20,22 +20,39 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iam-Javed&show_icons=true&theme=radical&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iam-Javed&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iam-Javed&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Iam-Javed&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iam-Javed&layout=compact&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Achievements
+
+<!-- Total PRs Card Style -->
+![Pull Requests](https://github-readme-stats.vercel.app/api?username=Iam-Javed&theme=tokyonight&hide=stars,issues,contribs&show_icons=true&custom_title=Pull%20Requests&include_all_commits=true)
+
+<!-- Streak Already Shows Commits -->
+
+<!-- Repository Stats Card -->
+![Repositories](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Iam-Javed&theme=tokyonight)
+
+<!-- Most Commit Language -->
+![Most Used Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Iam-Javed&theme=tokyonight)
 
 
 ## 🛠️ DevOps Skill Set
 
 ### Programming
 
-- Java
-- Python
-- DSA
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,dsa" />
+</p>
 
 ### ☁️ Cloud & Infrastructure
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,linux,ubuntu" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,linux,ubuntu" />
 </p>
 
 - AWS (EC2, S3, RDS, Route53, CloudFront, CloudWatch, Elastic Beanstalk)
@@ -67,10 +84,11 @@
 
 ### ⚙️ Configuration & Monitoring
 <p>
-  <img src="https://skillicons.dev/icons?i=ansible" />
+  <img src="https://skillicons.dev/icons?i=ansible,terraform,prometheus,grafana" />
 </p>
 
 - Ansible (Playbooks, Roles – Beginner to Intermediate)
+- Terraform (IaC - build infra through code)
 - Server performance monitoring & troubleshooting
 - Incident analysis using dashboards and logs
 
