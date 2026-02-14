@@ -26,6 +26,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iam-Javed&layout=compact&theme=tokyonight)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iam-Javed&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
 ---
 
 ## 🏆 GitHub Achievements
