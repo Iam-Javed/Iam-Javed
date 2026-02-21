@@ -20,29 +20,21 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iam-Javed&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Iam-Javed&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iam-Javed&layout=compact&theme=tokyonight)
+<!-- Total PRs Card Style -->
+[![Pull Requests](https://img.shields.io/badge/dynamic/json?label=Pull%20Requests&query=$.total_count&url=https://api.github.com/search/issues?q=type:pr+author:Iam-Javed)](https://github.com/search?q=type:pr+author:Iam-Javed)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iam-Javed&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+[![Releases](https://img.shields.io/badge/dynamic/json?label=Releases&query=$.total_count&url=https://api.github.com/search/issues?q=is:release+author:Iam-Javed)](https://github.com/search?q=is:release+author:Iam-Javed)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Iam-Javed&label=Profile%20Visitors&color=0e75b6&style=for-the-badge)](https://github.com/Iam-Javed)
 
 ---
 
 ## 🏆 GitHub Achievements
 
-<!-- Total PRs Card Style -->
-![Pull Requests](https://github-readme-stats.vercel.app/api?username=Iam-Javed&theme=tokyonight&hide=stars,issues,contribs&show_icons=true&custom_title=Pull%20Requests&include_all_commits=true)
-
-<!-- Streak Already Shows Commits -->
-
 <!-- Repository Stats Card -->
 ![Repositories](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Iam-Javed&theme=tokyonight)
-
-<!-- Most Commit Language -->
-![Most Used Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Iam-Javed&theme=tokyonight)
-
 
 ## 🛠️ DevOps Skill Set
 
