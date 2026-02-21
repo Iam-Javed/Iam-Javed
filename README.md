@@ -10,7 +10,7 @@
 ## 👨‍💻 About Me
 
 🔹 I'm a **DevOps-focused IT professional** with hands-on experience in **Linux, Cloud, Containers, CI/CD, and Automation**.  
-🔹 Started my journey as a **Windows Administrator**, now actively transitioning into a **DevOps Engineer role**.  
+🔹 Started my journey as a **Linux Administrator**, now actively working as a **DevOps Engineer**.  
 🔹 I believe in **learning by building**, breaking things, fixing them, and documenting everything.  
 🔹 Passionate about **Cloud Architecture, Infrastructure as Code, and scalable systems**.
 
@@ -21,11 +21,6 @@
 ## 📊 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Iam-Javed&theme=tokyonight)
-
-<!-- Total PRs Card Style -->
-[![Pull Requests](https://img.shields.io/badge/dynamic/json?label=Pull%20Requests&query=$.total_count&url=https://api.github.com/search/issues?q=type:pr+author:Iam-Javed)](https://github.com/search?q=type:pr+author:Iam-Javed)
-
-[![Releases](https://img.shields.io/badge/dynamic/json?label=Releases&query=$.total_count&url=https://api.github.com/search/issues?q=is:release+author:Iam-Javed)](https://github.com/search?q=is:release+author:Iam-Javed)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Iam-Javed&label=Profile%20Visitors&color=0e75b6&style=for-the-badge)](https://github.com/Iam-Javed)
 
@@ -67,7 +62,7 @@
 
 ### 🔁 CI/CD & Automation
 <p>
-  <img src="https://skillicons.dev/icons?i=jenkins,github,git,bash" />
+  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,github,git,bash,powershell" />
 </p>
 
 - Jenkins (CI pipelines, build & deploy automation)
@@ -76,7 +71,7 @@
 
 ---
 
-### ⚙️ Configuration & Monitoring
+### ⚙️ Configuration, IaC & Monitoring
 <p>
   <img src="https://skillicons.dev/icons?i=ansible,terraform,prometheus,grafana" />
 </p>
